@@ -1,0 +1,5 @@
+[2026-04-23T16:16:20] done — ok=0 skip=0 err=0 dry_run=True
+[2026-04-23T16:16:50] INGEST research/life-sciences/agriculture/MKT-164-alphonso-mango.md
+[2026-04-23T16:16:50] done — ok=1 skip=0 err=0 dry_run=False
+[2026-04-23T16:17:11] FAIL research/life-sciences/agriculture/_test-bad-mango.md — MKT-164 must include DNA polymorphism warning (standing order 2026-04-04)
+[2026-04-23T16:17:11] done — ok=0 skip=0 err=1 dry_run=True

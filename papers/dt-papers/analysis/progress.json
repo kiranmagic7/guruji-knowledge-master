@@ -1,0 +1,64 @@
+{
+  "lastUpdated": "2026-04-05",
+  "totalPapers": 678,
+  "completed": [
+    "MKT-193",
+    "MKT-194",
+    "MKT-195",
+    "MKT-196",
+    "MKT-197",
+    "MKT-198",
+    "MKT-199",
+    "MKT-200",
+    "MKT-201",
+    "MKT-202",
+    "MKT-203",
+    "MKT-204",
+    "MKT-205",
+    "MKT-206",
+    "MKT-207"
+  ],
+  "inProgress": [],
+  "queue": [],
+  "dailyLog": {
+    "2026-03-31": {
+      "papers": ["MKT-193", "MKT-194", "MKT-195", "MKT-196", "MKT-197"],
+      "physiology": ["Biochemistry Report - 2006", "Dr Costello Biofeedback Report - 2004"],
+      "pushedToGitHub": true,
+      "notes": "First session. Started with GT (Guruji Trivedi) papers MKT-193 to MKT-197. All are in vitro cell studies from 2018 showing consistent pattern: BT-DMEM > BT-cells. Physiology PDFs were scanned images — extracted via PyMuPDF + image analysis."
+    },
+    "2026-04-03": {
+      "papers": ["MKT-198", "MKT-199", "MKT-200", "MKT-201", "MKT-202"],
+      "physiology": ["Complete blood count (CBC) & ESR report-2006", "Derek Pyper - Chiropractic report 2006"],
+      "pushedToGitHub": true,
+      "notes": "Extraction failed for all papers (tool directory restriction). Physiology directory not found."
+    },
+    "2026-04-04": {
+      "papers": ["MKT-198", "MKT-199", "MKT-200", "MKT-201", "MKT-202"],
+      "physiology": [],
+      "physiologyNotes": "Skipped physiology reports due to time/token constraints after successful paper analysis.",
+      "pushedToGitHub": true,
+      "notes": "Successfully completed MKT-198 to MKT-202 using PyMuPDF local extraction (PDF tool hit rate limits). All GT papers from 2018. MKT-198: bone health (DMEM treatment, +72% ALP, +19% collagen). MKT-199: bone health (cell treatment, +63% viability, +32% ALP, +27% collagen). MKT-200: hair growth in vitro (dermal papilla cells, BT-II showed 124.3% increase). MKT-201: women's health (estrogenic potential, +73.21% ALP in Ishikawa cells). MKT-202: hair growth in vivo (C57BL/6 mice, 100% hair growth, 3-day faster anagen vs untreated). First in vivo study in series. All analyses pushed to guruji-science repo."
+    },
+    "2026-04-05": {
+      "papers": ["MKT-203", "MKT-204", "MKT-205", "MKT-206", "MKT-207"],
+      "physiology": [],
+      "physiologyNotes": "No physiology reports scheduled for today.",
+      "pushedToGitHub": true,
+      "notes": "Completed MKT-203 to MKT-207 using PyMuPDF. All GT papers from 2018-2019. MKT-203: wound healing (HFF-1 cells, BT-DMEM 51.8% migration, scratch area reduced 2.9pp, medium > cells treatment). MKT-204: ex vivo hair growth (mouse vibrissae, 71% telogen formation by day 7, complete hair cycle progression). MKT-205: LANDMARK cross-kingdom stem cells (plant callus +11-51%, mouse MSCs +61.9% at P3, human AD-MSCs +84% proliferation at P3, human BM-MSCs +70% count at P2; UC-MSCs no response). MKT-206: hepatoprotective (HepG2 cells, 10% cytoprotection vs t-BHP, 66% ALT reduction, 46.23% cholesterol reduction, 51.18% albumin increase, 31.57% IL-8 reduction). MKT-207: cardioprotective (H9c2 rat cardiomyocytes, FIRST dose-response study: BT-I vs BT-II; LDH ~50% inhibition, CK-MB 49-59% inhibition, ROS 6.64% reduction, apoptosis +63-97%). Pattern confirmed across 5 papers: medium treatment consistently effective."
+    }
+  },
+  "metrics": {
+    "completedCount": 15,
+    "totalPapers": 678,
+    "percentComplete": 2.21,
+    "estimatedCompletionDays": 133,
+    "papersByPrefix": {
+      "MKT": 15,
+      "AB": 0,
+      "DT": 0,
+      "GN": 0,
+      "TH": 0
+    }
+  }
+}
