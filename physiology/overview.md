@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Guruji's Physiology — Summary"
+authority_level: derivative
+source: "overview.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology]
+---
 # Guruji's Physiology — Summary
 
 7 medically verified impossibilities that prove Enlightenment is real:

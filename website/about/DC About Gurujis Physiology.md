@@ -1,3 +1,12 @@
+---
+content_type: website-content
+title: "About Guruji's Physiology"
+authority_level: official
+source: "DC About Gurujis Physiology.md"
+date_processed: 2026-04-24
+status: final
+tags: [website, about]
+---
 # About Guruji's Physiology
 
 - Guruji's arteries show zero percent plaquing at 41 years of age. Even children as young as 10 to 14 years of age have arterial plaquing.

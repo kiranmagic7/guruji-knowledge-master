@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-198: Effect of Consciousness Energy Healing on DMEM for Bone Health"
+authority_level: derivative
+source: "MKT-198-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-198-analysis]
+---
 # MKT-198: Effect of Consciousness Energy Healing on DMEM for Bone Health
 
 **Full Title:** Effect of the Consciousness Energy Healing Treatment on DMEM for the Proliferation and Differentiation of Human Bone Osteosarcoma Cells to Improve Bone Health

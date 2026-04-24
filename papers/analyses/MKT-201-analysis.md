@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-201: In Vitro Assessment of Estrogenic Potential using Ishikawa Cells"
+authority_level: derivative
+source: "MKT-201-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-201-analysis]
+---
 # MKT-201: In Vitro Assessment of Estrogenic Potential using Ishikawa Cells
 
 **Full Title:** In Vitro Assessment of Estrogenic Potential of Biofield Energy Treatment using Human Endometrial Adenocarcinoma Cell Line

@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-194: Collagen Synthesis in Human Dermal Fibroblast Cells"
+authority_level: derivative
+source: "MKT-194-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-194-analysis]
+---
 # MKT-194: Collagen Synthesis in Human Dermal Fibroblast Cells
 
 **Full Title:** Estimation of Collagen Synthesis in Human Dermal Fibroblast Cells: an Impact of Consciousness Energy Healing Treatment

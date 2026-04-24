@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-193: Biofield Energy Healing Based Vitamin D3 Effects on Bone Health"
+authority_level: derivative
+source: "MKT-193-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-193-analysis]
+---
 # MKT-193: Biofield Energy Healing Based Vitamin D3 Effects on Bone Health
 
 **Full Title:** Assessment of Biofield Energy Healing Based Vitamin D3 Effects on Bone Health Parameters Using Human Osteoblast Cell Line (MG-63)

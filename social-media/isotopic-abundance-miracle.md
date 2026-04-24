@@ -1,3 +1,12 @@
+---
+content_type: social-media
+title: "Guruji's Materials Science Breakthrough: Isotopic Abundance Ratio Changes"
+authority_level: derivative
+source: "isotopic-abundance-miracle.md"
+date_processed: 2026-04-24
+status: final
+tags: [social-media]
+---
 # Guruji's Materials Science Breakthrough: Isotopic Abundance Ratio Changes
 
 **Source:** Alice Branton (via Kiran's analysis) — March 20, 2026

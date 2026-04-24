@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-207: In vitro Assessment of the Biofield Treated Test Item on Cardiac Function Using Rat Cardiomyocytes Cell Line (H9c2) via Multiparametric Analysis"
+authority_level: derivative
+source: "MKT-207-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, dt-paper, MKT-207-analysis]
+---
 # MKT-207: In vitro Assessment of the Biofield Treated Test Item on Cardiac Function Using Rat Cardiomyocytes Cell Line (H9c2) via Multiparametric Analysis
 
 **Full Title:** In vitro Assessment of the Biofield Treated Test Item on Cardiac Function Using Rat Cardiomyocytes Cell Line (H9c2) via Multiparametric Analysis

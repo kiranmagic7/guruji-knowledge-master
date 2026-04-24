@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Arterial Pulse Wave Analysis Report — 2004"
+authority_level: derivative
+source: "raw-data.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Arterial-Pulse-Wave-2004]
+---
 # Arterial Pulse Wave Analysis Report — 2004
 
 **Patient ID:** [REDACTED]  

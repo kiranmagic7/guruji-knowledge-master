@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Key Anomalies: Pituitary Morphogenesis Report"
+authority_level: derivative
+source: "findings.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, pituitary-morphogenesis]
+---
 # Key Anomalies: Pituitary Morphogenesis Report
 
 **Subject:** Guruji Mahendra Kumar Trivedi  

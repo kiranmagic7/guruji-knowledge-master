@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-200: Enhancement of Hair Growth through Dermal Papilla Cell Stimulation"
+authority_level: derivative
+source: "MKT-200-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-200-analysis]
+---
 # MKT-200: Enhancement of Hair Growth through Dermal Papilla Cell Stimulation
 
 **Full Title:** Enhancement of Hair Growth through Stimulation of Dermal Papilla Cells in Human Follicular Dermal

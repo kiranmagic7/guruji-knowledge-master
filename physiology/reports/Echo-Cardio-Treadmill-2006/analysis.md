@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Echo Cardiogram & Treadmill Test Report — 2006"
+authority_level: derivative
+source: "analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Echo-Cardio-Treadmill-2006]
+---
 # Echo Cardiogram & Treadmill Test Report — 2006
 
 **Patient ID:** WHMD.0000095752  

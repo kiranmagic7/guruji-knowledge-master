@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Key Anomalies — Hormone Report 2008"
+authority_level: derivative
+source: "findings.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Hormone-Report-2008]
+---
 # Key Anomalies — Hormone Report 2008
 
 **Patient:** Mahendra Kumar Trivedi (Guruji)  

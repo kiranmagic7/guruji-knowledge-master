@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Hormone Panel Analysis — Mahendra Kumar Trivedi (2007)"
+authority_level: derivative
+source: "analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Hormones-2007]
+---
 # Hormone Panel Analysis — Mahendra Kumar Trivedi (2007)
 
 ## Report Metadata

@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-202: In Vivo Hair Growth in Mouse Skin"
+authority_level: derivative
+source: "MKT-202-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-202-analysis]
+---
 # MKT-202: In Vivo Hair Growth in Mouse Skin
 
 **Full Title:** Improvement of Hair Growth in Mouse Skin by Application of Consciousness Energy Treated Test Item

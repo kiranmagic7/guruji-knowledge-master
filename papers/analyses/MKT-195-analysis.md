@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-195: Wound Healing Potential Using HaCaT Cell Line Scratch Assay"
+authority_level: derivative
+source: "MKT-195-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-195-analysis]
+---
 # MKT-195: Wound Healing Potential Using HaCaT Cell Line Scratch Assay
 
 **Full Title:** Wound Healing Potential of Biofield Energy Treatment in HaCaT Cell Line Using Scratch Assay

@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-196: Antioxidative Potential on HepG2 Cells Under Oxidative Stress"
+authority_level: derivative
+source: "MKT-196-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-196-analysis]
+---
 # MKT-196: Antioxidative Potential on HepG2 Cells Under Oxidative Stress
 
 **Full Title:** Antioxidative Potential of Consciousness Energy Healing Treatment on HepG2 Cells and DMEM after Oxidative Stress Induced by Hydrogen Peroxide

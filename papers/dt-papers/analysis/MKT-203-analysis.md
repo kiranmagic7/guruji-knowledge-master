@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-203: Wound Healing Activity of Consciousness Energy Healing Treatment on HFF-1 Cells and DMEM Using Scratch Assay"
+authority_level: derivative
+source: "MKT-203-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, dt-paper, MKT-203-analysis]
+---
 # MKT-203: Wound Healing Activity of Consciousness Energy Healing Treatment on HFF-1 Cells and DMEM Using Scratch Assay
 
 **Full Title:** Wound Healing Activity of Consciousness Energy Healing Treatment on HFF-1 Cells and DMEM Using Scratch Assay

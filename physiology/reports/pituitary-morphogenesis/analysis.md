@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Pituitary Morphogenesis Analysis: Guruji Mahendra Kumar Trivedi"
+authority_level: derivative
+source: "analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, pituitary-morphogenesis]
+---
 # Pituitary Morphogenesis Analysis: Guruji Mahendra Kumar Trivedi
 
 **Report Date:** March 18, 2026  

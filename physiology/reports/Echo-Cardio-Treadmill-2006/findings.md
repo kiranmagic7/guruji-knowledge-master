@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Key Findings Summary — Echo Cardio 2006"
+authority_level: derivative
+source: "findings.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Echo-Cardio-Treadmill-2006]
+---
 # Key Findings Summary — Echo Cardio 2006
 
 ## Extraordinary Findings

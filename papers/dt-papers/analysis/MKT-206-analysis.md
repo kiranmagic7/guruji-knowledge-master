@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-206: Hepatoprotective Effect of Biofield Energy Treatment On Tert-Butyl Hydro Peroxide Induced Liver Injury in Hepatocellular Carcinoma Cell Line (HepG2)"
+authority_level: derivative
+source: "MKT-206-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, dt-paper, MKT-206-analysis]
+---
 # MKT-206: Hepatoprotective Effect of Biofield Energy Treatment On Tert-Butyl Hydro Peroxide Induced Liver Injury in Hepatocellular Carcinoma Cell Line (HepG2)
 
 **Full Title:** Hepatoprotective Effect of Biofield Energy Treatment On Tert-Butyl Hydro Peroxide Induced Liver Injury in Hepatocellular Carcinoma Cell Line (HepG2)

@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Key Findings — Hormone Panel 2007"
+authority_level: derivative
+source: "findings.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology, report, Hormones-2007]
+---
 # Key Findings — Hormone Panel 2007
 
 ## Extraordinary Anomalies

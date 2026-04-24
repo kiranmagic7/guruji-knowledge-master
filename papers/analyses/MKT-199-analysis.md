@@ -1,3 +1,12 @@
+---
+content_type: paper-analysis
+title: "MKT-199: Biofield Energy Treatment on Bone Cell Proliferation and Differentiation"
+authority_level: derivative
+source: "MKT-199-analysis.md"
+date_processed: 2026-04-24
+status: final
+tags: [paper, MKT-199-analysis]
+---
 # MKT-199: Biofield Energy Treatment on Bone Cell Proliferation and Differentiation
 
 **Full Title:** Effect of Biofield Energy Treatment on Bone Cell Proliferation and Differentiation for the Assessment of its Potential to Improve Bone Health

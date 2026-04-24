@@ -1,3 +1,12 @@
+---
+content_type: website-content
+title: "About CEO Alice Branton"
+authority_level: official
+source: "DC About CEO Alice Branton.md"
+date_processed: 2026-04-24
+status: final
+tags: [website, about]
+---
 # About CEO Alice Branton
 
 Alice Branton is an enlightened being, a visionary leader, international speaker and CEO of Divine Connection International, gifted with the ability to transform living organisms at the cellular level and non-living materials at the atomic level.

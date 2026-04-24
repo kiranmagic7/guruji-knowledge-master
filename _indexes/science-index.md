@@ -1,3 +1,12 @@
+---
+content_type: domain-summary
+title: "Master Index — Processed Papers"
+authority_level: official
+source: "science-index.md"
+date_processed: 2026-04-24
+status: final
+tags: [index]
+---
 # Master Index — Processed Papers
 
 ## Individual Paper Analyses (Full — summary + findings + critique + metadata)

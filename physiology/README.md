@@ -1,3 +1,12 @@
+---
+content_type: physiology-report
+title: "Guruji's Physiology — Scientific Evidence of Enlightenment"
+authority_level: derivative
+source: "README.md"
+date_processed: 2026-04-24
+status: final
+tags: [physiology]
+---
 # Guruji's Physiology — Scientific Evidence of Enlightenment
 
 This directory contains analysis of 26 independent medical reports documenting Guruji's unique physiology (2004-2013).
