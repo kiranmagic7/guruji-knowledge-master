@@ -314,6 +314,27 @@ Each entry contains:
 - **Speaker:** Dahryn Ma'am
 - **Best used for:** Relationship content; women's mental wellness; testimonials.
 
+### 2.26 Brain Housekeeping During Deep Sleep
+- **Concept:** Deep sleep allows the brain to clean waste, organize memories, and reset for the next day.
+- **Analogy:** "During the day, the brain is like a busy shopping mall full of people, lights, sound, movement, and activity. The cleaning staff cannot properly wash the floors while thousands of people are walking around. But after closing time, when the mall becomes quiet, the cleaning crew can finally come in, remove the garbage, mop the floors, organize the space, and prepare everything for the next day."
+- **Source:** articles/deep-sleep-and-brain-housekeeping.md; grounded in BLOG-9 and Dahryn-26 Q25
+- **Speaker:** Kiran derivative layman explainer
+- **Best used for:** Sleep, PTSD, mental restlessness, cognition, inflammation, and emotional-health content.
+
+### 2.27 CSF as the Brain's Cleaning Water
+- **Concept:** Cerebrospinal fluid supports internal brain waste clearance during deep sleep.
+- **Analogy:** "CSF flows through the brain like clean water moving through a house's plumbing system, helping carry waste away."
+- **Source:** articles/deep-sleep-and-brain-housekeeping.md
+- **Speaker:** Kiran derivative layman explainer
+- **Best used for:** Simple science explainers on glymphatic cleanup and why deep sleep matters.
+
+### 2.28 Constipation Analogy for Poor Brain Housekeeping
+- **Concept:** When waste is not cleared, the whole system feels disturbed.
+- **Analogy:** "When the body does not clear waste properly, the whole day can feel disturbed. Mood, energy, focus, appetite, motivation, and physical comfort can all be affected. The same idea applies to the brain."
+- **Source:** articles/deep-sleep-and-brain-housekeeping.md; derived from Shreyash's housekeeping framing
+- **Speaker:** Kiran derivative layman explainer
+- **Best used for:** Explaining brain fog, poor focus, irritability, and emotional heaviness after poor sleep.
+
 ---
 
 # THEME 3 — SPIRITUAL PRACTICE (Bhakti, Yoga, Meditation, Prayer)

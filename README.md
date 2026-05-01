@@ -67,6 +67,7 @@ guruji-knowledge-master/
 │   ├── meta/                 # Meta content, change logs
 │   └── science/              # Science pages
 │
+├── articles/                 # Derivative layman explainers and integrated drafts
 ├── blogs/                    # Published blog posts (BLOG-1..15)
 ├── religious-texts/          # Scriptures, sacred writings
 ├── testimonials/             # Participant testimonials

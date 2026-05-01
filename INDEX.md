@@ -6,6 +6,7 @@
 
 ### Core Content
 - [Blogs](blogs/) — 15 published blog posts (BLOG-1 through BLOG-15)
+- [Articles](articles/) — derivative layman explainers and integrated content drafts
 - [Talks & Interviews](talks-transcripts/) — Dahryn interview Q&As
 - [Website Content](website/) — Full Divine Connection website in markdown
 - [Religious Texts](religious-texts/) — Referenced spiritual texts
@@ -21,7 +22,7 @@
 
 ### Indexes & References
 - [Master Index](_indexes/MASTER-INDEX.md) — Concept map, theme clusters, cross-references, terminology
-- [Layman Examples](_indexes/LAYMAN-EXAMPLES-INDEX.md) — 95 analogies for content creation
+- [Layman Examples](_indexes/LAYMAN-EXAMPLES-INDEX.md) — 98 analogies for content creation
 - [Science Index](_indexes/science-index.md) — Scientific domain overview
 
 ### Templates & Scripts

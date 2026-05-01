@@ -306,7 +306,7 @@ Lived and strategic meaning.
 | Three states of mind (unhealthy/healthy/illuminated) | INT-24 Q8 | BLOG-3, BLOG-13 |
 | Stress as gap between wanted vs. forced life | BLOG-6 | INT-26 Q12 |
 | Root cause = emotional trauma | BLOG-4 | INT-26 Q24 (stays till death without consciousness elevation) |
-| Mental housekeeping via deep sleep | BLOG-9 | INT-26 Q25 (PTSD resolution) |
+| Mental housekeeping via deep sleep | BLOG-9 | INT-26 Q25 (PTSD resolution); articles/deep-sleep-and-brain-housekeeping.md (layman explainer integrating CSF/glymphatic cleanup, cognition, inflammation) |
 | Crude oil refining analogy (spirituality) | INT-24 Q2 | INT-24 Q22 (used again for legacy) |
 | Carbon → diamond (consciousness intensity) | INT-24 Q3 | (unique) |
 | Idol worship = scaffolding | INT-24 Q4 | (unique) |
@@ -353,6 +353,8 @@ Lived and strategic meaning.
 **Bhakti** — *Complete devotion to God and resonance with Divine Laws in nature. Not a path *to* Enlightenment — the natural *expression of* Enlightenment. Requires innocence, purity, morality, gratitude, empathy, sympathy, compassion. (BLOG-11; INT-24 Q12.)*
 
 **Yoga (the 8-step path)** — *Connection between Spirit and God. Eight sequential steps: Yama (don'ts), Niyama (do's), Asana (posture), Pranayama (conscious breathing), Pratyahara (withdrawal of senses), Dharana (focused concentration), Dhyana (meditation), Samadhi (trance). Each step requires mastery of all previous. (INT-24 Q7.)*
+
+**Brain Housekeeping / Deep Sleep** — *The daily cleaning and reset process of the brain/mind during deep sleep. In layman terms: during the day the brain works; during deep sleep the brain cleans. Includes CSF/glymphatic waste clearance, memory organization, emotional processing, and reduction of mental clutter. Poor housekeeping is linked in the corpus with mental restlessness, PTSD, poor cognition, stress, and inflammation. (BLOG-9; INT-26 Q25; articles/deep-sleep-and-brain-housekeeping.md.)*
 
 **Mental Restlessness / Mind Chattering** — *Continuous generation of delusional thoughts produced by the interaction of unfulfilled suppressed desires in the unconscious, 24/7. (BLOG-9.)*
 
